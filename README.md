@@ -8,6 +8,8 @@ This project focuses on the classification of Alzheimer's disease using deep lea
 
 The model developed in this project achieved a **validation accuracy of 99.21%** and a **test accuracy of 99%**, showcasing the effectiveness of CNNs in medical image classification.
 
+here is gui application of this deep learning model (upload your own image OR select get it form the test dataset): <https://alzheimerpredictioncnn-naeem.streamlit.app/> 
+
 ## Dataset
 
 The project utilizes the **Well-Documented Alzheimer's Dataset** from Kaggle, which can be found [here](https://www.kaggle.com/datasets/yiweilu2033/well-documented-alzheimers-dataset).
