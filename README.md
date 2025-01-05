@@ -8,7 +8,7 @@ This project focuses on the classification of Alzheimer's disease using deep lea
 
 The model developed in this project achieved a **validation accuracy of 99.21%** and a **test accuracy of 99%**, showcasing the effectiveness of CNNs in medical image classification.
 
-here is gui application of this deep learning model (upload your own image OR select get it form the test dataset): <https://alzheimerpredictioncnn-naeem.streamlit.app/> 
+here is gui application of this deep learning model (upload your own image OR select get it form the [Exmple Dataset](https://github.com/Naeem1144/Alzheimer_Prediction_CNN/tree/main/Examples%20Images) : <https://alzheimerpredictioncnn-naeem.streamlit.app/> 
 
 ## Dataset
 
