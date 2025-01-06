@@ -101,13 +101,13 @@ The model was trained for 61 epochs, with early stopping triggered when the vali
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/Naeem1144/Alzheimer_Prediction_CNN.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repo-name
+    cd Alzheimer-Prediction-CNN
     ```
 
 3. Install the required dependencies (preferably in a virtual environment):
