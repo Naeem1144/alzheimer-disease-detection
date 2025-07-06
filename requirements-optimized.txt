@@ -1,0 +1,26 @@
+# Optimized requirements for production deployment
+# Core dependencies with minimal footprint
+streamlit==1.41.1
+torch==2.5.1+cpu  # CPU-only version for smaller bundle
+torchvision==0.20.1+cpu
+pillow==11.1.0
+numpy==2.2.1
+
+# Essential streamlit dependencies
+altair==5.5.0
+click==8.1.8
+protobuf==5.29.2
+pyarrow==18.1.0
+pandas==2.2.3
+python-dateutil==2.9.0.post0
+requests==2.32.3
+watchdog==6.0.0
+
+# Remove unnecessary dependencies like:
+# - CUDA packages (nvidia-*)
+# - Development tools
+# - Visualization libraries not used in production
+# - Heavy ML libraries not needed for inference
+
+# For memory optimization
+psutil==5.9.8
